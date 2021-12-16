@@ -219,4 +219,4 @@ $format - 输出的数据格式，默认为 json 格式，当 output 设置为 �
 
 ## License
 
-MIT
+MIT# weather
